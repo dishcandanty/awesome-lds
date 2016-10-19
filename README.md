@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 - [Atonement](#atonement)
 - [Book of Mormon](#book-of-mormon)
 - [Priesthood](#priesthood)
+- [Prophets](#prophets)
 - [Revelation](#revelation)
 
 ## Atonement
