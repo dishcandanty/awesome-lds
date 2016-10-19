@@ -5,12 +5,10 @@ A curated list of amazingly awesome LDS talks / articles.
 Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTRIBUTING.md) for details.
 
 ## Table of Contents
-- [Awesome LDS](#awesome-lds)
-    - [Atonement](#atonement)
-    - [Book of Mormon](#book-of-mormon)
-    - [Priesthood](#priesthood)
-    - [Prophets](#prophets)
-    - [Revelation](#revelation)
+- [Atonement](#atonement)
+- [Book of Mormon](#book-of-mormon)
+- [Priesthood](#priesthood)
+- [Revelation](#revelation)
 
 ## Atonement
 
