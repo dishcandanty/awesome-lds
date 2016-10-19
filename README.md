@@ -9,6 +9,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
     - [Revelation](#revelation)
     - [Book of Mormon](#book-of-mormon)
     - [Prophets](#prophets)
+    - [Priesthood](#priesthood)
 
 ## Revelation
 *Receiving / understanding revelation.*
@@ -22,3 +23,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Prophets
 
 * [Principles from Prophets](https://speeches.byu.edu/talks/thomas-s-monson_principles-prophets-2/) - Devotional September 2009 - By Thomas S. Monson, President of the Church
+
+## Priesthood
+
+* [The Price of Priesthood Power](https://www.lds.org/general-conference/2016/04/the-price-of-priesthood-power?lang=eng) - Conference April 2016 - By President Russell M. Nelson, President of the Quorum of the Twelve Apostles
