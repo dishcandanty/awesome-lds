@@ -6,10 +6,15 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 
 ## Table of Contents
 - [Awesome LDS](#awesome-lds)
+    - [Atonement](#atonement)
     - [Revelation](#revelation)
     - [Book of Mormon](#book-of-mormon)
     - [Prophets](#prophets)
     - [Priesthood](#priesthood)
+
+## Atonement
+
+* [The Purifying Power of Gethsemane](https://www.lds.org/general-conference/1985/04/the-purifying-power-of-gethsemane?lang=eng) - Conference April 1985 - By Bruce R. McConkie
 
 ## Revelation
 *Receiving / understanding revelation.*
