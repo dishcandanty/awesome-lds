@@ -14,7 +14,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 
 ## Atonement
 
-* [The Purifying Power of Gethsemane](https://www.lds.org/general-conference/1985/04/the-purifying-power-of-gethsemane?lang=eng) - Conference April 1985 - By Bruce R. McConkie
+* [The Purifying Power of Gethsemane](https://www.lds.org/general-conference/1985/04/the-purifying-power-of-gethsemane?lang=eng) - Conference April 1985 - By Elder Bruce R. McConkie
 
 ## Book of Mormon
 
@@ -26,7 +26,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 
 ## Prophets
 
-* [Principles from Prophets](https://speeches.byu.edu/talks/thomas-s-monson_principles-prophets-2/) - Devotional September 2009 - By Thomas S. Monson
+* [Principles from Prophets](https://speeches.byu.edu/talks/thomas-s-monson_principles-prophets-2/) - Devotional September 2009 - By President Thomas S. Monson
 
 ## Revelation
 
