@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 - [Awesome LDS](#awesome-lds)
     - [Revelation](#revelation)
     - [Book of Mormon](#book-of-mormon)
+    - [Prophets](#prophets)
 
 ## Revelation
 *Receiving / understanding revelation.*
@@ -17,3 +18,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Book of Mormon
 
 * [Safety for the Soul](https://www.lds.org/general-conference/2009/10/safety-for-the-soul?lang=eng) - Conference October 2009 - By Elder Jeffrey R. Holland Of the Quorum of the Twelve Apostles
+
+## Prophets
+
+* [Principles from Prophets](https://speeches.byu.edu/talks/thomas-s-monson_principles-prophets-2/) - Devotional September 2009 - By Thomas S. Monson, President of the Church
