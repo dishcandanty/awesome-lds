@@ -7,8 +7,13 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Table of Contents
 - [Awesome LDS](#awesome-lds)
     - [Revelation](#revelation)
+    - [Book of Mormon](#book-of-mormon)
 
 ## Revelation
 *Receiving / understanding revelation.*
 
 * [The Quest for Spiritual Knowledge](https://www.lds.org/ensign/2007/06/the-quest-for-spiritual-knowledge?lang=eng) - Ensign June 2007 - By Elder Robert S. Wood Of the Seventy
+
+## Book of Mormon
+
+* [Safety for the Soul](https://www.lds.org/general-conference/2009/10/safety-for-the-soul?lang=eng) - Conference October 2009 - By Elder Jeffrey R. Holland Of the Quorum of the Twelve Apostles
